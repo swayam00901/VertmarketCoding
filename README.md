@@ -21,3 +21,7 @@
 ### Validation steps
 
 - Validates answer and prints
+
+### Output
+
+![Screenshot](SampleOutput.png)
